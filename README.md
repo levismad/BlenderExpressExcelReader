@@ -1,11 +1,11 @@
 # BlenderExpressExcelReader
 ## Problema:
-Era uma vez um upload de arquivos excel com varias abas (com mesmo padrão de dados) que a operação insistia em utilizar, ou invés do prórpio sistema... (Ahhh nossa querida area usuária!!!) 
+Era uma vez um upload de arquivos excel com varias abas (com mesmo padrão de dados) que a operação insistia em utilizar, ou invés do próprio sistema... (Ahhh nossa querida área usuária!!!) 
 Mantendo as devidas conversões de dados, os registros deveriam ser lidos e tratados dentro do sistema.
 
 ## Solução
 
-Criação de um mecanismo generico de  rotina dot.net que durante a leitura dos dados realiza as conversões e realiza a transposição dos dados para o sistema.
+Criação de um mecanismo generico de  rotina dot.net que durante a leitura dos dados realizava as conversões e transposição dos dados para o sistema.
 Utilizando [EPPlus](https://github.com/pruiz/EPPlus)
 
 ## Why Blender again?
