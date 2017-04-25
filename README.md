@@ -10,7 +10,7 @@ Utilizando [EPPlus](https://github.com/pruiz/EPPlus)
 
 ## Why Blender again?
 
-He strikes again, whearing nothing but a metal suit... to save the day without a single Regex expression (Take that @JeffersonFreitas!!!).
+He strikes again, whearing nothing but a metal suit... to save the day without a single Regex expression (Take that [@JeffersonFreitas](https://github.com/JeffersonFreitas)!!!).
 
 ## But why so long since the last commit?
 
